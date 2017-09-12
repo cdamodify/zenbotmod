@@ -38,8 +38,8 @@ c.kraken.tosagree = 'disagree'
 
 // to enable Bittrex trading, enter your API credentials:
 c.bittrex = {}
-c.bittrex.key = 'YOUR-API-KEY'
-c.bittrex.secret = 'YOUR-SECRET'
+c.bittrex.key = 'd5dab881b94046c7858c4ac6862a6215'
+c.bittrex.secret = '1502e6ecdeff4be1ad4dd7f59d82a476'
 // make sure to give your API key access to only: "Trade Limit" and "Read Info",
 // please note that this might change in the future.
 // please note that bittrex API is limited, you cannot use backfills or sims (paper/live trading only)
